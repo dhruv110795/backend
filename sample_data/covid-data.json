@@ -1,0 +1,4447 @@
+[
+    {
+        "date": 44098.22928240741,
+        "key": "AE",
+        "new_confirmed": 1002,
+        "new_deceased": 1,
+        "new_tested": 93618,
+        "total_confirmed": 88532,
+        "total_deceased": 407,
+        "total_tested": 9130551
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AF",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 39170,
+        "total_deceased": 1451
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AM",
+        "new_confirmed": 392,
+        "new_deceased": 2,
+        "total_confirmed": 48643,
+        "total_deceased": 947
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AT",
+        "new_confirmed": 688,
+        "new_deceased": 6,
+        "new_tested": 18518,
+        "total_confirmed": 41246,
+        "total_deceased": 783,
+        "total_tested": 1507782
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AU",
+        "new_confirmed": 10,
+        "new_deceased": 2,
+        "new_tested": 47634,
+        "total_confirmed": 26983,
+        "total_deceased": 861,
+        "total_tested": 7441327
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AZ",
+        "new_confirmed": 162,
+        "new_deceased": 1,
+        "total_confirmed": 39686,
+        "total_deceased": 581
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BE",
+        "new_confirmed": 0,
+        "new_deceased": 1,
+        "new_tested": 603,
+        "total_confirmed": 108674,
+        "total_deceased": 9965,
+        "total_tested": 3027173
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BH",
+        "new_confirmed": 687,
+        "new_deceased": 0,
+        "new_tested": 22705,
+        "total_confirmed": 67701,
+        "total_deceased": 231,
+        "total_tested": 1378104
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BR",
+        "new_confirmed": 32817,
+        "new_deceased": 831,
+        "new_recovered": 30903,
+        "total_confirmed": 4657702,
+        "total_deceased": 139808,
+        "total_recovered": 4023789,
+        "total_tested": 6400000
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BY",
+        "new_confirmed": 294,
+        "new_deceased": 6,
+        "new_tested": 7315,
+        "total_confirmed": 76651,
+        "total_deceased": 802,
+        "total_tested": 1744682
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA",
+        "new_confirmed": 1341,
+        "new_deceased": 6,
+        "new_recovered": 919,
+        "new_tested": 67590,
+        "total_confirmed": 149094,
+        "total_deceased": 9249,
+        "total_recovered": 128707,
+        "total_tested": 6901251
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CH",
+        "new_confirmed": 508,
+        "new_deceased": 4,
+        "new_tested": 8088,
+        "total_confirmed": 51492,
+        "total_deceased": 1776,
+        "total_tested": 1313944
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CN",
+        "new_confirmed": 15,
+        "new_deceased": 0,
+        "new_recovered": 13,
+        "total_confirmed": 90933,
+        "total_deceased": 4745,
+        "total_recovered": 80458
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CZ",
+        "new_confirmed": 2910,
+        "new_deceased": 12,
+        "new_tested": 22025,
+        "total_confirmed": 58374,
+        "total_deceased": 567,
+        "total_tested": 1286000
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DE",
+        "new_confirmed": 2153,
+        "new_deceased": 15,
+        "total_confirmed": 280223,
+        "total_deceased": 9443,
+        "total_tested": 15642654
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DK",
+        "new_confirmed": 559,
+        "new_deceased": 2,
+        "new_tested": 7279,
+        "total_confirmed": 24916,
+        "total_deceased": 645,
+        "total_tested": 3492190
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DO",
+        "new_confirmed": 385,
+        "new_deceased": 2,
+        "new_tested": 2599,
+        "total_confirmed": 110122,
+        "total_deceased": 2076,
+        "total_tested": 452188
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DZ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 50400,
+        "total_deceased": 1698
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "EC",
+        "new_confirmed": 1164,
+        "new_deceased": 42,
+        "new_tested": 4339,
+        "total_confirmed": 131146,
+        "total_deceased": 11213,
+        "total_tested": 337427
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "EE",
+        "new_confirmed": 43,
+        "new_deceased": 0,
+        "new_tested": 2534,
+        "total_confirmed": 3076,
+        "total_deceased": 64,
+        "total_tested": 199944
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "EG",
+        "new_confirmed": 138,
+        "new_deceased": 13,
+        "total_confirmed": 102513,
+        "total_deceased": 5835
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FI",
+        "new_confirmed": 105,
+        "new_deceased": 0,
+        "new_tested": 9686,
+        "total_confirmed": 9484,
+        "total_deceased": 343,
+        "total_tested": 936859
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "FR",
+        "new_confirmed": 16068,
+        "new_deceased": 52,
+        "new_tested": 173278,
+        "total_confirmed": 474200,
+        "total_deceased": 31325
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GB",
+        "new_confirmed": 344,
+        "new_deceased": 7,
+        "new_tested": 274768,
+        "total_confirmed": 423235,
+        "total_deceased": 41936,
+        "total_tested": 23188836
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GE",
+        "new_confirmed": 265,
+        "new_deceased": 1,
+        "total_confirmed": 4664,
+        "total_deceased": 26
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GR",
+        "new_confirmed": 341,
+        "new_deceased": 9,
+        "new_tested": 13134,
+        "total_confirmed": 16627,
+        "total_deceased": 366,
+        "total_tested": 1246363
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "HR",
+        "new_confirmed": 232,
+        "new_deceased": 4,
+        "new_tested": 5414,
+        "total_confirmed": 15572,
+        "total_deceased": 261,
+        "total_tested": 284449
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ID",
+        "new_confirmed": 4634,
+        "new_deceased": 128,
+        "new_tested": 34786,
+        "total_confirmed": 262022,
+        "total_deceased": 10105,
+        "total_tested": 1834349
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IE",
+        "new_confirmed": 319,
+        "new_deceased": 3,
+        "new_tested": 14373,
+        "total_confirmed": 33994,
+        "total_deceased": 1797,
+        "total_tested": 1106992
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_tested": 54471,
+        "total_confirmed": 206049,
+        "total_deceased": 1369,
+        "total_tested": 3201110
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IN",
+        "new_confirmed": 86052,
+        "new_deceased": 1141,
+        "new_tested": 1492409,
+        "total_confirmed": 5818570,
+        "total_deceased": 92290,
+        "total_tested": 68928440
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IQ",
+        "new_confirmed": 4471,
+        "new_deceased": 45,
+        "new_tested": 22816,
+        "total_confirmed": 337106,
+        "total_deceased": 8799,
+        "total_tested": 2121304
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IR",
+        "new_confirmed": 3521,
+        "new_deceased": 175,
+        "new_tested": 27711,
+        "total_confirmed": 436319,
+        "total_deceased": 25015,
+        "total_tested": 3828330
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IS",
+        "new_confirmed": 36,
+        "new_deceased": 0,
+        "new_tested": 4525,
+        "total_confirmed": 2512,
+        "total_deceased": 10,
+        "total_tested": 116711
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "JP",
+        "new_confirmed": 456,
+        "new_deceased": 12,
+        "new_tested": 6112,
+        "total_confirmed": 80497,
+        "total_deceased": 1532,
+        "total_tested": 2309187
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KH",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 275,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KR",
+        "new_confirmed": 114,
+        "new_deceased": 2,
+        "new_tested": 12484,
+        "total_confirmed": 23455,
+        "total_deceased": 395,
+        "total_tested": 2260701
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KW",
+        "new_confirmed": 552,
+        "new_deceased": 2,
+        "new_tested": 4622,
+        "total_confirmed": 101851,
+        "total_deceased": 592,
+        "total_tested": 720509
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LB",
+        "new_confirmed": 1027,
+        "new_deceased": 1,
+        "total_confirmed": 32805,
+        "total_deceased": 329
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LK",
+        "new_confirmed": 9,
+        "new_deceased": 0,
+        "new_tested": 2555,
+        "total_confirmed": 3333,
+        "total_deceased": 13,
+        "total_tested": 278145
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LT",
+        "new_confirmed": 138,
+        "new_deceased": 2,
+        "new_tested": 6613,
+        "total_confirmed": 4070,
+        "total_deceased": 89,
+        "total_tested": 744174
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LU",
+        "new_confirmed": 68,
+        "new_deceased": 0,
+        "new_tested": 76,
+        "total_confirmed": 8158,
+        "total_deceased": 124,
+        "total_tested": 8233
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 208,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MK",
+        "new_confirmed": 151,
+        "new_deceased": 2,
+        "total_confirmed": 17200,
+        "total_deceased": 712
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MX",
+        "new_confirmed": 4786,
+        "new_deceased": 601,
+        "new_tested": 12158,
+        "total_confirmed": 710049,
+        "total_deceased": 74949,
+        "total_tested": 1532585
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MY",
+        "new_confirmed": 71,
+        "new_deceased": 0,
+        "new_tested": 11860,
+        "total_confirmed": 10576,
+        "total_deceased": 133,
+        "total_tested": 1484812
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NG",
+        "new_confirmed": 125,
+        "new_deceased": 0,
+        "new_tested": 1912,
+        "total_confirmed": 57849,
+        "total_deceased": 1102,
+        "total_tested": 494577
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "NL",
+        "new_confirmed": 2759,
+        "new_deceased": 16,
+        "total_confirmed": 105015,
+        "total_deceased": 6310,
+        "total_tested": 2240526
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NO",
+        "new_confirmed": 123,
+        "new_deceased": 3,
+        "new_tested": 2502,
+        "total_confirmed": 13275,
+        "total_deceased": 270,
+        "total_tested": 952808
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NP",
+        "new_confirmed": 1497,
+        "new_deceased": 17,
+        "new_tested": 9497,
+        "total_confirmed": 69301,
+        "total_deceased": 453,
+        "total_tested": 944474
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "OM",
+        "new_confirmed": 568,
+        "new_deceased": 10,
+        "new_tested": 2682,
+        "total_confirmed": 95907,
+        "total_deceased": 885
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PH",
+        "new_confirmed": 2164,
+        "new_deceased": 36,
+        "new_tested": 36201,
+        "total_confirmed": 296755,
+        "total_deceased": 5127,
+        "total_tested": 3305307
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PK",
+        "new_confirmed": 807,
+        "new_deceased": 7,
+        "new_tested": 37504,
+        "total_confirmed": 309015,
+        "total_deceased": 6444,
+        "total_tested": 3344019
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "QA",
+        "new_confirmed": 250,
+        "new_deceased": 0,
+        "new_tested": 6039,
+        "total_confirmed": 124425,
+        "total_deceased": 212,
+        "total_tested": 745130
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "RO",
+        "new_confirmed": 1639,
+        "new_deceased": 41,
+        "new_recovered": 265,
+        "new_tested": 24703,
+        "total_confirmed": 118054,
+        "total_deceased": 4591,
+        "total_recovered": 20799,
+        "total_tested": 2302828
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SE",
+        "new_confirmed": 335,
+        "new_deceased": 0,
+        "new_tested": 19924,
+        "total_confirmed": 90289,
+        "total_deceased": 5878
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SG",
+        "new_confirmed": 15,
+        "new_deceased": 0,
+        "total_confirmed": 57654,
+        "total_deceased": 27,
+        "total_tested": 922418
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 746,
+        "total_deceased": 42
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TH",
+        "new_confirmed": 3,
+        "new_deceased": 0,
+        "new_tested": 1649,
+        "total_confirmed": 3519,
+        "total_deceased": 59,
+        "total_tested": 444855
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TW",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_tested": 197,
+        "total_confirmed": 509,
+        "total_deceased": 7,
+        "total_tested": 92565
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US",
+        "new_confirmed": 40043,
+        "new_deceased": 1125,
+        "new_tested": 299840,
+        "total_confirmed": 6868828,
+        "total_deceased": 200725,
+        "total_tested": 107300299
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_tested": 778,
+        "total_confirmed": 1069,
+        "total_deceased": 35,
+        "total_tested": 261004
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES",
+        "new_confirmed": 10653,
+        "new_deceased": 84,
+        "new_tested": 88636,
+        "total_confirmed": 704209,
+        "total_deceased": 31118,
+        "total_tested": 8782104
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "IT",
+        "new_confirmed": 1912,
+        "new_deceased": 20,
+        "new_recovered": 954,
+        "new_tested": 107269,
+        "total_confirmed": 306235,
+        "total_deceased": 35801,
+        "total_recovered": 222716,
+        "total_tested": 10894963
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "NZ",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_tested": 6465,
+        "total_confirmed": 1473,
+        "total_deceased": 25,
+        "total_tested": 937244
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "RU",
+        "new_confirmed": 7212,
+        "new_deceased": 108,
+        "new_tested": 374157,
+        "total_confirmed": 1136048,
+        "total_deceased": 20056,
+        "total_tested": 44364566
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR",
+        "new_confirmed": 3038,
+        "new_deceased": 16,
+        "new_tested": 0,
+        "total_confirmed": 655219,
+        "total_deceased": 19109,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_C",
+        "new_confirmed": 165,
+        "new_deceased": 5,
+        "new_tested": 0,
+        "total_confirmed": 119743,
+        "total_deceased": 3916,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AD",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 1753,
+        "total_deceased": 53
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AG",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 97,
+        "total_deceased": 3
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AI",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AL",
+        "new_confirmed": 134,
+        "new_deceased": 0,
+        "total_confirmed": 12921,
+        "total_deceased": 370
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AO",
+        "new_confirmed": 112,
+        "new_deceased": 3,
+        "total_confirmed": 4475,
+        "total_deceased": 162
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AW",
+        "new_confirmed": 56,
+        "new_deceased": 0,
+        "total_confirmed": 3721,
+        "total_deceased": 25
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BA",
+        "new_confirmed": 237,
+        "new_deceased": 12,
+        "total_confirmed": 26313,
+        "total_deceased": 795
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BB",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 189,
+        "total_deceased": 7
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BD",
+        "new_confirmed": 1540,
+        "new_deceased": 28,
+        "new_tested": 13673,
+        "total_confirmed": 355384,
+        "total_deceased": 5072,
+        "total_tested": 1783779
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BF",
+        "new_confirmed": 22,
+        "new_deceased": 0,
+        "total_confirmed": 1929,
+        "total_deceased": 56
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BG",
+        "new_confirmed": 290,
+        "new_deceased": 6,
+        "new_tested": 8385,
+        "total_confirmed": 19573,
+        "total_deceased": 785,
+        "total_tested": 507451
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BI",
+        "new_confirmed": 6,
+        "new_deceased": 0,
+        "total_confirmed": 483,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BJ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2325,
+        "total_deceased": 40
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BM",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 181,
+        "total_deceased": 9
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BN",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 146,
+        "total_deceased": 3
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BO",
+        "new_confirmed": 537,
+        "new_deceased": 38,
+        "new_tested": 1605,
+        "total_confirmed": 131990,
+        "total_deceased": 7731,
+        "total_tested": 287260
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BQ",
+        "new_confirmed": 9,
+        "new_deceased": 0,
+        "total_confirmed": 78,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BS",
+        "new_confirmed": 151,
+        "new_deceased": 3,
+        "total_confirmed": 3618,
+        "total_deceased": 80
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BT",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 263,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BW",
+        "new_confirmed": 354,
+        "new_deceased": 0,
+        "total_confirmed": 2921,
+        "total_deceased": 13
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "BZ",
+        "new_confirmed": 37,
+        "new_deceased": 1,
+        "total_confirmed": 1706,
+        "total_deceased": 22
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CD",
+        "new_confirmed": 18,
+        "new_deceased": 0,
+        "new_tested": 238,
+        "total_confirmed": 10554,
+        "total_deceased": 271
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CF",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 4804,
+        "total_deceased": 62
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CG",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5005,
+        "total_deceased": 89
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CI",
+        "new_confirmed": 71,
+        "new_deceased": 0,
+        "new_tested": 1420,
+        "total_confirmed": 19501,
+        "total_deceased": 120,
+        "total_tested": 156390
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CK",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CL",
+        "new_confirmed": 1731,
+        "new_deceased": 124,
+        "new_tested": 29078,
+        "total_confirmed": 451634,
+        "total_deceased": 12469,
+        "total_tested": 3105172
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 20690,
+        "total_deceased": 416
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CO",
+        "new_confirmed": 1,
+        "new_deceased": 15,
+        "new_recovered": 12606,
+        "new_tested": 24348,
+        "total_confirmed": 786744,
+        "total_deceased": 26779,
+        "total_recovered": 674961,
+        "total_tested": 3160591
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CR",
+        "new_confirmed": 1370,
+        "new_deceased": 21,
+        "new_tested": 2977,
+        "total_confirmed": 68059,
+        "total_deceased": 781,
+        "total_tested": 186877
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CU",
+        "new_confirmed": 40,
+        "new_deceased": 0,
+        "new_tested": 7625,
+        "total_confirmed": 5310,
+        "total_deceased": 118,
+        "total_tested": 569371
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CV",
+        "new_confirmed": 67,
+        "new_deceased": 1,
+        "total_confirmed": 5479,
+        "total_deceased": 55
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CW",
+        "new_confirmed": 10,
+        "new_deceased": 0,
+        "total_confirmed": 301,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CY",
+        "new_confirmed": 9,
+        "new_deceased": 0,
+        "total_confirmed": 1663,
+        "total_deceased": 22
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DJ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5407,
+        "total_deceased": 61
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "DM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 24,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ER",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 369,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ET",
+        "new_confirmed": 604,
+        "new_deceased": 7,
+        "new_tested": 8348,
+        "total_confirmed": 71687,
+        "total_deceased": 1148,
+        "total_tested": 1234645
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "FK",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 13,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "FM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "FO",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "total_confirmed": 455,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 8716,
+        "total_deceased": 54
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GF",
+        "new_confirmed": 28,
+        "new_deceased": 0,
+        "total_confirmed": 9790,
+        "total_deceased": 65
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GG",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 256,
+        "total_deceased": 13
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GH",
+        "new_confirmed": 37,
+        "new_deceased": 2,
+        "new_tested": 1831,
+        "total_confirmed": 46153,
+        "total_deceased": 299,
+        "total_tested": 474120
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GI",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 357,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 14,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3552,
+        "total_deceased": 110
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GN",
+        "new_confirmed": 44,
+        "new_deceased": 0,
+        "total_confirmed": 10478,
+        "total_deceased": 65
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GQ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5018,
+        "total_deceased": 83
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GT",
+        "new_confirmed": 491,
+        "new_deceased": 16,
+        "total_confirmed": 87933,
+        "total_deceased": 3170
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GU",
+        "new_confirmed": 28,
+        "new_deceased": 1,
+        "total_confirmed": 2263,
+        "total_deceased": 39
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GW",
+        "new_confirmed": 21,
+        "new_deceased": 0,
+        "total_confirmed": 2324,
+        "total_deceased": 39
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GY",
+        "new_confirmed": 98,
+        "new_deceased": 1,
+        "total_confirmed": 2535,
+        "total_deceased": 69
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "HN",
+        "new_confirmed": 369,
+        "new_deceased": 16,
+        "total_confirmed": 72675,
+        "total_deceased": 2222
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "HT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 8646,
+        "total_deceased": 225
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "HU",
+        "new_confirmed": 927,
+        "new_deceased": 9,
+        "new_tested": 11116,
+        "total_confirmed": 22127,
+        "total_deceased": 718,
+        "total_tested": 668553
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "IM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 340,
+        "total_deceased": 24
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "JE",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 399,
+        "total_deceased": 32
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "JM",
+        "new_confirmed": 193,
+        "new_deceased": 1,
+        "total_confirmed": 5588,
+        "total_deceased": 77
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "JO",
+        "new_confirmed": 549,
+        "new_deceased": 1,
+        "total_confirmed": 6591,
+        "total_deceased": 36,
+        "total_tested": 78885
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KE",
+        "new_confirmed": 141,
+        "new_deceased": 5,
+        "new_tested": 3874,
+        "total_confirmed": 37489,
+        "total_deceased": 669,
+        "total_tested": 523998
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KG",
+        "new_confirmed": 175,
+        "new_deceased": 0,
+        "total_confirmed": 45932,
+        "total_deceased": 1063
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 470,
+        "total_deceased": 7
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 19,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KP",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KY",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 210,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "KZ",
+        "new_confirmed": 292,
+        "new_deceased": 0,
+        "new_tested": 9474,
+        "total_confirmed": 139581,
+        "total_deceased": 2043,
+        "total_tested": 2733455
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 23,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 27,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LI",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 117,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LR",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 1338,
+        "total_deceased": 82
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LS",
+        "new_confirmed": 47,
+        "new_deceased": 0,
+        "total_confirmed": 1554,
+        "total_deceased": 35
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LV",
+        "new_confirmed": 22,
+        "new_deceased": 0,
+        "new_tested": 2431,
+        "total_confirmed": 1594,
+        "total_deceased": 36,
+        "total_tested": 306652
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "LY",
+        "new_confirmed": 535,
+        "new_deceased": 5,
+        "new_tested": 3461,
+        "total_confirmed": 30632,
+        "total_deceased": 474,
+        "total_tested": 197575
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MA",
+        "new_confirmed": 2356,
+        "new_deceased": 38,
+        "new_tested": 23504,
+        "total_confirmed": 110099,
+        "total_deceased": 1956,
+        "total_tested": 2457373
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MD",
+        "new_confirmed": 721,
+        "new_deceased": 8,
+        "total_confirmed": 48953,
+        "total_deceased": 1252
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ME",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 9906,
+        "total_deceased": 154
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MG",
+        "new_confirmed": 24,
+        "new_deceased": 1,
+        "new_tested": 223,
+        "total_confirmed": 16191,
+        "total_deceased": 227,
+        "total_tested": 68787
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ML",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 3041,
+        "total_deceased": 130
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MM",
+        "new_confirmed": 688,
+        "new_deceased": 25,
+        "new_tested": 3977,
+        "total_confirmed": 8515,
+        "total_deceased": 155,
+        "total_tested": 220187
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 313,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MP",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 69,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MQ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 1290,
+        "total_deceased": 20
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MR",
+        "new_confirmed": 8,
+        "new_deceased": 0,
+        "total_confirmed": 7433,
+        "total_deceased": 161
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 13,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MT",
+        "new_confirmed": 41,
+        "new_deceased": 2,
+        "new_tested": 2043,
+        "total_confirmed": 2898,
+        "total_deceased": 27,
+        "total_tested": 207168
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MU",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 367,
+        "total_deceased": 10
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MV",
+        "new_confirmed": 54,
+        "new_deceased": 0,
+        "new_tested": 1098,
+        "total_confirmed": 9939,
+        "total_deceased": 34,
+        "total_tested": 143472
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MW",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_tested": 369,
+        "total_confirmed": 5747,
+        "total_deceased": 179,
+        "total_tested": 50989
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "MZ",
+        "new_confirmed": 137,
+        "new_deceased": 2,
+        "new_tested": 1255,
+        "total_confirmed": 7399,
+        "total_deceased": 51,
+        "total_tested": 130060
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 26,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 1193,
+        "total_deceased": 69
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NI",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 4065,
+        "total_deceased": 149
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "NU",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PA",
+        "new_confirmed": 706,
+        "new_deceased": 6,
+        "new_tested": 4543,
+        "total_confirmed": 107990,
+        "total_deceased": 2291,
+        "total_tested": 438699
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PE",
+        "new_confirmed": 6149,
+        "new_deceased": 302,
+        "new_tested": 6525,
+        "total_confirmed": 782695,
+        "total_deceased": 31870,
+        "total_tested": 630521
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PF",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 1469,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PG",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 531,
+        "total_deceased": 7
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PL",
+        "new_confirmed": 1136,
+        "new_deceased": 25,
+        "new_tested": 23370,
+        "total_confirmed": 82809,
+        "total_deceased": 2369,
+        "total_tested": 3071718
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PR",
+        "new_confirmed": 1182,
+        "new_deceased": 10,
+        "total_confirmed": 43842,
+        "total_deceased": 627
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PS",
+        "new_confirmed": 713,
+        "new_deceased": 5,
+        "new_tested": 5028,
+        "total_confirmed": 47830,
+        "total_deceased": 322
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PT",
+        "new_confirmed": 691,
+        "new_deceased": 3,
+        "new_recovered": 335,
+        "new_tested": 23305,
+        "total_confirmed": 71156,
+        "total_deceased": 1931,
+        "total_recovered": 30049,
+        "total_tested": 2458397
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PW",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "PY",
+        "new_confirmed": 743,
+        "new_deceased": 22,
+        "new_tested": 2061,
+        "total_confirmed": 35571,
+        "total_deceased": 727,
+        "total_tested": 252943
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "RE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3501,
+        "total_deceased": 11
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "RS",
+        "new_confirmed": 83,
+        "new_deceased": 1,
+        "new_tested": 6663,
+        "total_confirmed": 33163,
+        "total_deceased": 745,
+        "total_tested": 1099022
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "RW",
+        "new_confirmed": 10,
+        "new_deceased": 0,
+        "new_tested": 1631,
+        "total_confirmed": 4789,
+        "total_deceased": 27,
+        "total_tested": 479010
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SA",
+        "new_confirmed": 498,
+        "new_deceased": 30,
+        "new_tested": 46037,
+        "total_confirmed": 331857,
+        "total_deceased": 4599,
+        "total_tested": 6236859
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SB",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 139,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SD",
+        "new_confirmed": 14,
+        "new_deceased": 0,
+        "total_confirmed": 13592,
+        "total_deceased": 836
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SH",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SI",
+        "new_confirmed": 192,
+        "new_deceased": 0,
+        "new_recovered": 11,
+        "new_tested": 3645,
+        "total_confirmed": 5007,
+        "total_deceased": 145,
+        "total_recovered": 474,
+        "total_tested": 212756
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SK",
+        "new_confirmed": 360,
+        "new_deceased": 0,
+        "new_tested": 5540,
+        "total_confirmed": 7629,
+        "total_deceased": 41,
+        "total_tested": 433848
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SL",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 2188,
+        "total_deceased": 72
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SN",
+        "new_confirmed": 21,
+        "new_deceased": 1,
+        "new_tested": 1005,
+        "total_confirmed": 14816,
+        "total_deceased": 304,
+        "total_tested": 178634
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SO",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3465,
+        "total_deceased": 98
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SR",
+        "new_confirmed": 20,
+        "new_deceased": 1,
+        "total_confirmed": 4779,
+        "total_deceased": 101
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SS",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 2676,
+        "total_deceased": 49
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ST",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 910,
+        "total_deceased": 15
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SV",
+        "new_confirmed": 247,
+        "new_deceased": 4,
+        "new_tested": 3434,
+        "total_confirmed": 28201,
+        "total_deceased": 823,
+        "total_tested": 374821
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SX",
+        "new_confirmed": 22,
+        "new_deceased": 1,
+        "total_confirmed": 616,
+        "total_deceased": 21
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SY",
+        "new_confirmed": 42,
+        "new_deceased": 2,
+        "total_confirmed": 3966,
+        "total_deceased": 183
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "SZ",
+        "new_confirmed": 32,
+        "new_deceased": 0,
+        "total_confirmed": 5375,
+        "total_deceased": 108
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TC",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "total_confirmed": 676,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TD",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 1171,
+        "total_deceased": 82
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TG",
+        "new_confirmed": 6,
+        "new_deceased": 3,
+        "new_tested": 790,
+        "total_confirmed": 1707,
+        "total_deceased": 44,
+        "total_tested": 86229
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TJ",
+        "new_confirmed": 45,
+        "new_deceased": 0,
+        "total_confirmed": 9520,
+        "total_deceased": 74
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 27,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TN",
+        "new_confirmed": 826,
+        "new_deceased": 6,
+        "new_tested": 2592,
+        "total_confirmed": 13305,
+        "total_deceased": 180,
+        "total_tested": 212620
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TR",
+        "new_confirmed": 1721,
+        "new_deceased": 74,
+        "new_tested": 113317,
+        "total_confirmed": 309790,
+        "total_deceased": 7785,
+        "total_tested": 9721687
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TT",
+        "new_confirmed": 176,
+        "new_deceased": 0,
+        "total_confirmed": 4222,
+        "total_deceased": 67
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "TZ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 509,
+        "total_deceased": 21
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "UA",
+        "new_confirmed": 3565,
+        "new_deceased": 70,
+        "new_tested": 27497,
+        "total_confirmed": 191671,
+        "total_deceased": 3827,
+        "total_tested": 2156653
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "UG",
+        "new_confirmed": 185,
+        "new_deceased": 1,
+        "new_tested": 2636,
+        "total_confirmed": 7064,
+        "total_deceased": 70,
+        "total_tested": 463618
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "UY",
+        "new_confirmed": 12,
+        "new_deceased": 1,
+        "new_tested": 3009,
+        "total_confirmed": 1946,
+        "total_deceased": 47,
+        "total_tested": 224322
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "UZ",
+        "new_confirmed": 514,
+        "new_deceased": 3,
+        "total_confirmed": 54181,
+        "total_deceased": 448
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 12,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 64,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VE",
+        "new_confirmed": 986,
+        "new_deceased": 10,
+        "total_confirmed": 69439,
+        "total_deceased": 574
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VG",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 71,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VI",
+        "new_confirmed": 12,
+        "new_deceased": 0,
+        "total_confirmed": 1290,
+        "total_deceased": 19
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "VU",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "YE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2033,
+        "total_deceased": 587
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "YT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3541,
+        "total_deceased": 40
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ZA",
+        "new_confirmed": 1861,
+        "new_deceased": 77,
+        "new_recovered": 1687,
+        "new_tested": 0,
+        "total_confirmed": 667049,
+        "total_deceased": 16283,
+        "total_recovered": 595916,
+        "total_tested": 4064117
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ZM",
+        "new_confirmed": 48,
+        "new_deceased": 0,
+        "new_tested": 1705,
+        "total_confirmed": 14491,
+        "total_deceased": 332,
+        "total_tested": 146329
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "ZW",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_tested": 637,
+        "total_confirmed": 7725,
+        "total_deceased": 227,
+        "total_tested": 115254
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FJ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_tested": 100,
+        "total_confirmed": 32,
+        "total_deceased": 2,
+        "total_tested": 10012
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FR_BL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 45,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FR_GUA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 4487,
+        "total_deceased": 42
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FR_MF",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 367,
+        "total_deceased": 8
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "FR_PM",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 16,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GD",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 24,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "KI",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "MH",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "NA",
+        "new_confirmed": 77,
+        "new_deceased": 2,
+        "new_tested": 925,
+        "total_confirmed": 10740,
+        "total_deceased": 119,
+        "total_tested": 91902
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "NR",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "TK",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "TO",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "TV",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "WF",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "WS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 0,
+        "total_deceased": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "XK",
+        "new_confirmed": 63,
+        "new_deceased": 0,
+        "total_confirmed": 15290,
+        "total_deceased": 606
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_B",
+        "new_confirmed": 1745,
+        "new_deceased": 3,
+        "new_tested": 0,
+        "total_confirmed": 370394,
+        "total_deceased": 11454,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_B_805",
+        "new_confirmed": 28,
+        "new_deceased": 0,
+        "new_tested": 0,
+        "total_confirmed": 10078,
+        "total_deceased": 270,
+        "total_tested": 0
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GB_WLS",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_tested": 10854,
+        "total_confirmed": 22215,
+        "total_deceased": 1609,
+        "total_tested": 731961
+    },
+    {
+        "date": 44097.22928240741,
+        "key": "MX_NLE",
+        "new_confirmed": 32,
+        "new_deceased": 5,
+        "total_confirmed": 37132,
+        "total_deceased": 2914
+    },
+    {
+        "date": 44097.22928240741,
+        "key": "MX_NLE_19046",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 3206,
+        "total_deceased": 321
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_01",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2010,
+        "total_deceased": 107
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_02",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 35,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_03",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 23,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_04",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 385,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_05",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 50,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_06",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 78,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_07",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 242,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_08",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 632,
+        "total_deceased": 17
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_09",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 425,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_10",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 696,
+        "total_deceased": 19
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_11",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 4518,
+        "total_deceased": 99
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_12",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3731,
+        "total_deceased": 70
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_13",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 24843,
+        "total_deceased": 399
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_14",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 6582,
+        "total_deceased": 136
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_15",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 168,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_16",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 411,
+        "total_deceased": 25
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_17",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 771,
+        "total_deceased": 46
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_18",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 244,
+        "total_deceased": 10
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_19",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 178,
+        "total_deceased": 6
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_20",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 303,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_21",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 611,
+        "total_deceased": 10
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_22",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 525,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_23",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5219,
+        "total_deceased": 83
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_24",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 482,
+        "total_deceased": 7
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_25",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 486,
+        "total_deceased": 8
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_26",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 1715,
+        "total_deceased": 25
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_27",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 10333,
+        "total_deceased": 200
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_28",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2636,
+        "total_deceased": 59
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_29",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 545,
+        "total_deceased": 9
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_30",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 238,
+        "total_deceased": 4
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_31",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 35,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_32",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 140,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_33",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 149,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_34",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 497,
+        "total_deceased": 3
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_35",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 193,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_36",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 147,
+        "total_deceased": 9
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_37",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 94,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_38",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 114,
+        "total_deceased": 6
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_39",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 137,
+        "total_deceased": 4
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_40",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5002,
+        "total_deceased": 95
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_41",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 242,
+        "total_deceased": 0
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_42",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 236,
+        "total_deceased": 3
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_43",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 571,
+        "total_deceased": 8
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_44",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 158,
+        "total_deceased": 2
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_45",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 365,
+        "total_deceased": 1
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_46",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 400,
+        "total_deceased": 12
+    },
+    {
+        "date": 44100.22928240741,
+        "key": "JP_47",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2389,
+        "total_deceased": 45
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GB_NIR",
+        "new_confirmed": 189,
+        "new_deceased": 0,
+        "new_tested": 7410,
+        "total_confirmed": 10223,
+        "total_deceased": 577,
+        "total_tested": 465761
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GB_NIR_N09000010",
+        "new_confirmed": 25,
+        "total_confirmed": 815
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_B_077",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_tested": 0,
+        "total_confirmed": 319,
+        "total_deceased": 10,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_M",
+        "new_confirmed": 206,
+        "new_deceased": 1,
+        "new_tested": 0,
+        "total_confirmed": 20461,
+        "total_deceased": 371,
+        "total_tested": 0
+    },
+    {
+        "date": 44097.22928240741,
+        "key": "AR_M_119",
+        "new_confirmed": 51,
+        "new_deceased": 0,
+        "new_tested": 0,
+        "total_confirmed": 672,
+        "total_deceased": 4,
+        "total_tested": 0
+    },
+    {
+        "date": 44083.22928240741,
+        "key": "KR_28",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 806,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_D",
+        "new_confirmed": 65,
+        "new_deceased": 0,
+        "new_tested": 0,
+        "total_confirmed": 991,
+        "total_deceased": 7,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "AR_D_035",
+        "new_confirmed": 19,
+        "new_deceased": 0,
+        "new_tested": 0,
+        "total_confirmed": 243,
+        "total_deceased": 0,
+        "total_tested": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_WA",
+        "new_confirmed": 555,
+        "new_deceased": 0,
+        "new_tested": 2397,
+        "total_confirmed": 88597,
+        "total_deceased": 2175,
+        "total_tested": 1743296
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_WA_53061",
+        "new_confirmed": 11,
+        "new_deceased": 0,
+        "total_confirmed": 7955,
+        "total_deceased": 222
+    },
+    {
+        "date": 43946.22928240741,
+        "key": "CN_AH",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 991,
+        "total_deceased": 6,
+        "total_recovered": 985
+    },
+    {
+        "date": 44028.22928240741,
+        "key": "CN_BJ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 23,
+        "total_confirmed": 929,
+        "total_deceased": 9,
+        "total_recovered": 752
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_CQ",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 583,
+        "total_deceased": 6,
+        "total_recovered": 576
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_GD",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 1650,
+        "total_deceased": 8,
+        "total_recovered": 1636
+    },
+    {
+        "date": 43923.22928240741,
+        "key": "CN_GX",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 254,
+        "total_deceased": 2,
+        "total_recovered": 252
+    },
+    {
+        "date": 43940.22928240741,
+        "key": "CN_GZ",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 147,
+        "total_deceased": 2,
+        "total_recovered": 145
+    },
+    {
+        "date": 43935.22928240741,
+        "key": "CN_HA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 1276,
+        "total_deceased": 22,
+        "total_recovered": 1254
+    },
+    {
+        "date": 43987.22928240741,
+        "key": "CN_HB",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 3,
+        "total_confirmed": 68135,
+        "total_deceased": 4512,
+        "total_recovered": 63623
+    },
+    {
+        "date": 44008.22928240741,
+        "key": "CN_HI",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 171,
+        "total_deceased": 6,
+        "total_recovered": 165
+    },
+    {
+        "date": 43985.22928240741,
+        "key": "CN_HL",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 947,
+        "total_deceased": 13,
+        "total_recovered": 934
+    },
+    {
+        "date": 43939.22928240741,
+        "key": "CN_HN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 1019,
+        "total_deceased": 4,
+        "total_recovered": 1015
+    },
+    {
+        "date": 43989.22928240741,
+        "key": "CN_JL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 3,
+        "total_confirmed": 155,
+        "total_deceased": 2,
+        "total_recovered": 153
+    },
+    {
+        "date": 43985.22928240741,
+        "key": "CN_JX",
+        "new_confirmed": -5,
+        "new_deceased": 0,
+        "new_recovered": -5,
+        "total_confirmed": 932,
+        "total_deceased": 1,
+        "total_recovered": 931
+    },
+    {
+        "date": 44024.22928240741,
+        "key": "CN_LN",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 164,
+        "total_deceased": 2,
+        "total_recovered": 150
+    },
+    {
+        "date": 43906.22928240741,
+        "key": "CN_NX",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 75,
+        "total_deceased": 0,
+        "total_recovered": 75
+    },
+    {
+        "date": 44028.22928240741,
+        "key": "CN_SC",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 599,
+        "total_deceased": 3,
+        "total_recovered": 590
+    },
+    {
+        "date": 44025.22928240741,
+        "key": "CN_SD",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 793,
+        "total_deceased": 7,
+        "total_recovered": 785
+    },
+    {
+        "date": 44028.22928240741,
+        "key": "CN_SH",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 732,
+        "total_deceased": 7,
+        "total_recovered": 691
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_SX",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 201,
+        "total_deceased": 0,
+        "total_recovered": 198
+    },
+    {
+        "date": 44024.22928240741,
+        "key": "CN_TJ",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 203,
+        "total_deceased": 3,
+        "total_recovered": 195
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_TW",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 451,
+        "total_deceased": 7,
+        "total_recovered": 440
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_YN",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 188,
+        "total_deceased": 2,
+        "total_recovered": 183
+    },
+    {
+        "date": 44024.22928240741,
+        "key": "CN_ZJ",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 1270,
+        "total_deceased": 1,
+        "total_recovered": 1267
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_05",
+        "new_confirmed": 97,
+        "new_deceased": 3,
+        "new_recovered": 44,
+        "total_confirmed": 5653,
+        "total_deceased": 107,
+        "total_recovered": 3664
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_07",
+        "new_confirmed": 127,
+        "new_deceased": 3,
+        "new_recovered": 45,
+        "total_confirmed": 7362,
+        "total_deceased": 158,
+        "total_recovered": 5036
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_09",
+        "new_confirmed": 53,
+        "new_deceased": 1,
+        "new_recovered": 19,
+        "total_confirmed": 894,
+        "total_deceased": 9,
+        "total_recovered": 459
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_12",
+        "new_confirmed": 225,
+        "new_deceased": 4,
+        "new_recovered": 122,
+        "total_confirmed": 4917,
+        "total_deceased": 98,
+        "total_recovered": 2600
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_14",
+        "new_confirmed": 84,
+        "new_deceased": 2,
+        "new_recovered": 18,
+        "total_confirmed": 2851,
+        "total_deceased": 56,
+        "total_recovered": 1066
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_18",
+        "new_confirmed": 141,
+        "new_deceased": 2,
+        "new_recovered": 65,
+        "total_confirmed": 5403,
+        "total_deceased": 98,
+        "total_recovered": 3013
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_21",
+        "new_confirmed": 74,
+        "new_deceased": 0,
+        "new_recovered": 37,
+        "total_confirmed": 9490,
+        "total_deceased": 298,
+        "total_recovered": 4401
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_23",
+        "new_confirmed": 140,
+        "new_deceased": 5,
+        "new_recovered": 9,
+        "total_confirmed": 3428,
+        "total_deceased": 55,
+        "total_recovered": 1168
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_26",
+        "new_confirmed": 128,
+        "new_deceased": 4,
+        "new_recovered": 140,
+        "total_confirmed": 13080,
+        "total_deceased": 295,
+        "total_recovered": 6007
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_30",
+        "new_confirmed": 380,
+        "new_deceased": 9,
+        "new_recovered": 106,
+        "total_confirmed": 21045,
+        "total_deceased": 342,
+        "total_recovered": 6255
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_32",
+        "new_confirmed": 144,
+        "new_deceased": 5,
+        "new_recovered": 67,
+        "total_confirmed": 8430,
+        "total_deceased": 170,
+        "total_recovered": 5175
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_35",
+        "new_confirmed": 13,
+        "new_deceased": 0,
+        "new_recovered": 11,
+        "total_confirmed": 1052,
+        "total_deceased": 55,
+        "total_recovered": 812
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_46",
+        "new_confirmed": 215,
+        "new_deceased": 7,
+        "new_recovered": 54,
+        "total_confirmed": 19465,
+        "total_deceased": 543,
+        "total_recovered": 6518
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_48",
+        "new_confirmed": 65,
+        "new_deceased": 2,
+        "new_recovered": 43,
+        "total_confirmed": 2782,
+        "total_deceased": 71,
+        "total_recovered": 915
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_51",
+        "new_confirmed": 161,
+        "new_deceased": 0,
+        "new_recovered": 2,
+        "total_confirmed": 12470,
+        "total_deceased": 174,
+        "total_recovered": 2520
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_53",
+        "new_confirmed": 75,
+        "new_deceased": 1,
+        "new_recovered": 45,
+        "total_confirmed": 1752,
+        "total_deceased": 35,
+        "total_recovered": 880
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_56",
+        "new_confirmed": 153,
+        "new_deceased": 1,
+        "new_recovered": 208,
+        "total_confirmed": 11774,
+        "total_deceased": 157,
+        "total_recovered": 9365
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_59",
+        "new_confirmed": 122,
+        "new_deceased": 4,
+        "new_recovered": 61,
+        "total_confirmed": 3474,
+        "total_deceased": 62,
+        "total_recovered": 1576
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_61",
+        "new_confirmed": 245,
+        "new_deceased": 1,
+        "new_recovered": 387,
+        "total_confirmed": 12579,
+        "total_deceased": 150,
+        "total_recovered": 6383
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_63",
+        "new_confirmed": 297,
+        "new_deceased": 3,
+        "new_recovered": 12,
+        "total_confirmed": 16490,
+        "total_deceased": 319,
+        "total_recovered": 4310
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_65",
+        "new_confirmed": 49,
+        "new_deceased": 1,
+        "new_recovered": 9,
+        "total_confirmed": 954,
+        "total_deceased": 22,
+        "total_recovered": 506
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_68",
+        "new_confirmed": 176,
+        "new_deceased": 1,
+        "new_recovered": 48,
+        "total_confirmed": 5361,
+        "total_deceased": 99,
+        "total_recovered": 2273
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_71",
+        "new_confirmed": 104,
+        "new_deceased": 1,
+        "new_recovered": 41,
+        "total_confirmed": 3459,
+        "total_deceased": 52,
+        "total_recovered": 1566
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_74",
+        "new_confirmed": 123,
+        "new_deceased": 4,
+        "new_recovered": 26,
+        "total_confirmed": 3770,
+        "total_deceased": 54,
+        "total_recovered": 819
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_77",
+        "new_confirmed": 174,
+        "new_deceased": 6,
+        "new_recovered": 56,
+        "total_confirmed": 13736,
+        "total_deceased": 348,
+        "total_recovered": 7846
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "UA_KBP",
+        "new_confirmed": 380,
+        "new_deceased": 9,
+        "new_recovered": 106,
+        "total_confirmed": 21045,
+        "total_deceased": 342,
+        "total_recovered": 6255
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_MA",
+        "new_confirmed": 481,
+        "new_deceased": 15,
+        "new_recovered": 0,
+        "new_tested": 18582,
+        "total_confirmed": 128993,
+        "total_deceased": 9362,
+        "total_recovered": 111479,
+        "total_tested": 2146526
+    },
+    {
+        "date": 44024.22928240741,
+        "key": "CN_FJ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 363,
+        "total_deceased": 1,
+        "total_recovered": 361
+    },
+    {
+        "date": 44028.22928240741,
+        "key": "CN_GS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 167,
+        "total_deceased": 2,
+        "total_recovered": 165
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_HE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 349,
+        "total_deceased": 6,
+        "total_recovered": 340
+    },
+    {
+        "date": 44012.22928240741,
+        "key": "CN_JS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 654,
+        "total_deceased": 0,
+        "total_recovered": 654
+    },
+    {
+        "date": 44025.22928240741,
+        "key": "CN_NM",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 249,
+        "total_deceased": 1,
+        "total_recovered": 237
+    },
+    {
+        "date": 44027.22928240741,
+        "key": "CN_SN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 1,
+        "total_confirmed": 321,
+        "total_deceased": 3,
+        "total_recovered": 315
+    },
+    {
+        "date": 44068.22928240741,
+        "key": "PH_07",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 8,
+        "total_confirmed": 18633,
+        "total_deceased": 991,
+        "total_recovered": 8057
+    },
+    {
+        "date": 44067.22928240741,
+        "key": "PH_07_BOH",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 303,
+        "total_deceased": 6,
+        "total_recovered": 52
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CH_GE",
+        "new_confirmed": 40,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 0,
+        "total_confirmed": 8223,
+        "total_deceased": 309,
+        "total_recovered": 973,
+        "total_tested": 71961
+    },
+    {
+        "date": 44028.22928240741,
+        "key": "CN_XJ",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 77,
+        "total_deceased": 3,
+        "total_recovered": 73
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GB_SCT",
+        "new_confirmed": 88,
+        "new_deceased": 0,
+        "new_tested": 16724,
+        "total_confirmed": 26517,
+        "total_deceased": 2510,
+        "total_tested": 1574400
+    },
+    {
+        "date": 44083.22928240741,
+        "key": "KR_11",
+        "new_confirmed": 48,
+        "new_deceased": 0,
+        "total_confirmed": 4520,
+        "total_deceased": 10
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_IL",
+        "new_confirmed": 2289,
+        "new_deceased": 31,
+        "new_tested": 62071,
+        "total_confirmed": 284620,
+        "total_deceased": 8793,
+        "total_tested": 5295876
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_IL_17031",
+        "new_confirmed": 807,
+        "new_deceased": 7,
+        "total_confirmed": 141430,
+        "total_deceased": 5187
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_ACT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 432,
+        "total_confirmed": 113,
+        "total_deceased": 3,
+        "total_recovered": 110,
+        "total_tested": 92467
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_NSW",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "new_recovered": 3,
+        "new_tested": 13686,
+        "total_confirmed": 4217,
+        "total_deceased": 53,
+        "total_recovered": 2927,
+        "total_tested": 2647901
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_NT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 376,
+        "total_confirmed": 33,
+        "total_deceased": 0,
+        "total_recovered": 34,
+        "total_tested": 45937
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_QLD",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 16,
+        "new_tested": 5024,
+        "total_confirmed": 1153,
+        "total_deceased": 6,
+        "total_recovered": 1141,
+        "total_tested": 1089865
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_SA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 3045,
+        "total_confirmed": 468,
+        "total_deceased": 4,
+        "total_recovered": 462,
+        "total_tested": 456575
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_TAS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 601,
+        "total_confirmed": 230,
+        "total_deceased": 13,
+        "total_recovered": 215,
+        "total_tested": 101617
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_VIC",
+        "new_confirmed": 13,
+        "new_deceased": 8,
+        "new_recovered": 56,
+        "new_tested": 12460,
+        "total_confirmed": 20118,
+        "total_deceased": 781,
+        "total_recovered": 18794,
+        "total_tested": 2635282
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "AU_WA",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 2864,
+        "total_confirmed": 668,
+        "total_deceased": 9,
+        "total_recovered": 650,
+        "total_tested": 410171
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB",
+        "new_confirmed": 158,
+        "new_deceased": 1,
+        "new_recovered": 215,
+        "new_tested": 8333,
+        "total_confirmed": 17190,
+        "total_deceased": 261,
+        "total_recovered": 15467,
+        "total_tested": 958534
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB_4831",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "total_confirmed": 1817,
+        "total_deceased": 25
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB_4832",
+        "new_confirmed": 63,
+        "new_deceased": 1,
+        "total_confirmed": 8576,
+        "total_deceased": 124
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB_4833",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 661,
+        "total_deceased": 7
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB_4834",
+        "new_confirmed": 78,
+        "new_deceased": 0,
+        "total_confirmed": 4727,
+        "total_deceased": 70
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_AB_4835",
+        "new_confirmed": 11,
+        "new_deceased": 0,
+        "total_confirmed": 1370,
+        "total_deceased": 35
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC",
+        "new_confirmed": 148,
+        "new_deceased": 2,
+        "new_recovered": 148,
+        "new_tested": 4970,
+        "total_confirmed": 8543,
+        "total_deceased": 229,
+        "total_recovered": 6917,
+        "total_tested": 401444
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC_5910",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 520,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC_5920",
+        "new_confirmed": 63,
+        "new_deceased": 2,
+        "total_confirmed": 4361,
+        "total_deceased": 105
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC_5930",
+        "new_confirmed": 74,
+        "new_deceased": 0,
+        "total_confirmed": 3094,
+        "total_deceased": 115
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC_5940",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 203,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_BC_5950",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 278,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB",
+        "new_confirmed": 37,
+        "new_deceased": 1,
+        "new_recovered": 5,
+        "new_tested": 1681,
+        "total_confirmed": 1711,
+        "total_deceased": 19,
+        "total_recovered": 1243,
+        "total_tested": 166556
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB_4601",
+        "new_confirmed": 30,
+        "new_deceased": 1,
+        "total_confirmed": 768,
+        "total_deceased": 6
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB_4602",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 509,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB_4603",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "total_confirmed": 112,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB_4604",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_MB_4605",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 317,
+        "total_deceased": 11
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 535,
+        "total_confirmed": 199,
+        "total_deceased": 2,
+        "total_recovered": 191,
+        "total_tested": 62868
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1301",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 47,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1302",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 28,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1303",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 58,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1304",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 8,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1305",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 53,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1306",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 2,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NB_1307",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 3,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NL",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 584,
+        "total_confirmed": 272,
+        "total_deceased": 3,
+        "total_recovered": 268,
+        "total_tested": 39543
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NL_1011",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 248,
+        "total_deceased": 3
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NL_1012",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 14,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NL_1013",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 4,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NL_1014",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 6,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NS",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 893,
+        "total_confirmed": 1087,
+        "total_deceased": 65,
+        "total_recovered": 1021,
+        "total_tested": 91089
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NS_1201",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 56,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NS_1202",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 67,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NS_1203",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 54,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NS_1204",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 910,
+        "total_deceased": 58
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 52,
+        "total_confirmed": 5,
+        "total_deceased": 0,
+        "total_recovered": 5,
+        "total_tested": 4354
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_NT_6101",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 5,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON",
+        "new_confirmed": 409,
+        "new_deceased": 1,
+        "new_recovered": 286,
+        "new_tested": 29632,
+        "total_confirmed": 48496,
+        "total_deceased": 2836,
+        "total_recovered": 41886,
+        "total_tested": 3560258
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3526",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 32,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3527",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 182,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3530",
+        "new_confirmed": 17,
+        "new_deceased": 0,
+        "total_confirmed": 2089,
+        "total_deceased": 181
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3533",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 133,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3534",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 489,
+        "total_deceased": 32
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3535",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 236,
+        "total_deceased": 33
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3536",
+        "new_confirmed": 14,
+        "new_deceased": 0,
+        "total_confirmed": 1093,
+        "total_deceased": 25
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3537",
+        "new_confirmed": 6,
+        "new_deceased": 0,
+        "total_confirmed": 1100,
+        "total_deceased": 46
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3538",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 52,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3539",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 127,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3540",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 366,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3541",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 122,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3542",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 344,
+        "total_deceased": 25
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3543",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 376,
+        "total_deceased": 52
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3544",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 825,
+        "total_deceased": 57
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3546",
+        "new_confirmed": 4,
+        "new_deceased": 0,
+        "total_confirmed": 1007,
+        "total_deceased": 64
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3547",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 38,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3549",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 49,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3551",
+        "new_confirmed": 82,
+        "new_deceased": 0,
+        "total_confirmed": 3919,
+        "total_deceased": 280
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3553",
+        "new_confirmed": 23,
+        "new_deceased": 0,
+        "total_confirmed": 9058,
+        "total_deceased": 328
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3555",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "total_confirmed": 116,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3556",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 81,
+        "total_deceased": 9
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3557",
+        "new_confirmed": 3,
+        "new_deceased": 0,
+        "total_confirmed": 51,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3558",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 243,
+        "total_deceased": 12
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3560",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 842,
+        "total_deceased": 38
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3561",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 102,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3562",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 106,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3563",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 19,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3565",
+        "new_confirmed": 18,
+        "new_deceased": 0,
+        "total_confirmed": 1671,
+        "total_deceased": 120
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3566",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 625,
+        "total_deceased": 37
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3568",
+        "new_confirmed": 3,
+        "new_deceased": 0,
+        "total_confirmed": 2639,
+        "total_deceased": 76
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3570",
+        "new_confirmed": 35,
+        "new_deceased": 0,
+        "total_confirmed": 4001,
+        "total_deceased": 254
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3575",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 263,
+        "total_deceased": 5
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_ON_3595",
+        "new_confirmed": 168,
+        "new_deceased": 0,
+        "total_confirmed": 18139,
+        "total_deceased": 1178
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_PE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 605,
+        "total_confirmed": 58,
+        "total_deceased": 0,
+        "total_recovered": 57,
+        "total_tested": 35466
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_PE_1100",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 58,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC",
+        "new_confirmed": 582,
+        "new_deceased": 1,
+        "new_recovered": 257,
+        "new_tested": 19051,
+        "total_confirmed": 69670,
+        "total_deceased": 5810,
+        "total_recovered": 59943,
+        "total_tested": 1426245
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2401",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 288,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2402",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 401,
+        "total_deceased": 26
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2403",
+        "new_confirmed": 103,
+        "new_deceased": 0,
+        "total_confirmed": 3351,
+        "total_deceased": 206
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2404",
+        "new_confirmed": 10,
+        "new_deceased": 0,
+        "total_confirmed": 2294,
+        "total_deceased": 211
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2405",
+        "new_confirmed": 25,
+        "new_deceased": 0,
+        "total_confirmed": 1641,
+        "total_deceased": 30
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2406",
+        "new_confirmed": 247,
+        "new_deceased": 0,
+        "total_confirmed": 32063,
+        "total_deceased": 3477
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2407",
+        "new_confirmed": 36,
+        "new_deceased": 0,
+        "total_confirmed": 1210,
+        "total_deceased": 34
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2408",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 192,
+        "total_deceased": 4
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2409",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 148,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2410",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 8,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2411",
+        "new_confirmed": 15,
+        "new_deceased": 0,
+        "total_confirmed": 275,
+        "total_deceased": 9
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2412",
+        "new_confirmed": 24,
+        "new_deceased": 1,
+        "total_confirmed": 1060,
+        "total_deceased": 14
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2413",
+        "new_confirmed": 29,
+        "new_deceased": 0,
+        "total_confirmed": 6788,
+        "total_deceased": 682
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2414",
+        "new_confirmed": 9,
+        "new_deceased": 0,
+        "total_confirmed": 5103,
+        "total_deceased": 223
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2415",
+        "new_confirmed": 20,
+        "new_deceased": 0,
+        "total_confirmed": 4577,
+        "total_deceased": 274
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2416",
+        "new_confirmed": 53,
+        "new_deceased": 0,
+        "total_confirmed": 10198,
+        "total_deceased": 617
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2417",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 19,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_QC_2418",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 13,
+        "total_deceased": 0
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK",
+        "new_confirmed": 5,
+        "new_deceased": 0,
+        "new_recovered": 8,
+        "new_tested": 1189,
+        "total_confirmed": 1835,
+        "total_deceased": 24,
+        "total_recovered": 1681,
+        "total_tested": 149256
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4704",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 169,
+        "total_deceased": 1
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4706",
+        "new_confirmed": 2,
+        "new_deceased": 0,
+        "total_confirmed": 403,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4721",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 352,
+        "total_deceased": 7
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4722",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 251,
+        "total_deceased": 6
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4723",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 215,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_SK_4724",
+        "new_confirmed": 1,
+        "new_deceased": 0,
+        "total_confirmed": 445,
+        "total_deceased": 6
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_YT",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "new_tested": 45,
+        "total_confirmed": 15,
+        "total_deceased": 0,
+        "total_recovered": 15,
+        "total_tested": 3259
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "CA_YT_6001",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 15,
+        "total_deceased": 0
+    },
+    {
+        "date": 43885.22928240741,
+        "key": "CN_QH",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 18,
+        "total_deceased": 0,
+        "total_recovered": 18
+    },
+    {
+        "date": 44000.22928240741,
+        "key": "MY_01",
+        "new_confirmed": 2,
+        "new_deceased": 1,
+        "total_confirmed": 686,
+        "total_deceased": 2
+    },
+    {
+        "date": 44000.22928240741,
+        "key": "MY_10",
+        "new_confirmed": 2,
+        "new_deceased": -3,
+        "total_confirmed": 2006,
+        "total_deceased": 2
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_CA",
+        "new_confirmed": 3321,
+        "new_deceased": 76,
+        "new_tested": 73434,
+        "total_confirmed": 801671,
+        "total_deceased": 15389,
+        "total_tested": 13952857
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_CA_06059",
+        "new_confirmed": 122,
+        "new_deceased": 6,
+        "total_confirmed": 54023,
+        "total_deceased": 1182
+    },
+    {
+        "date": 44083.22928240741,
+        "key": "KR_41",
+        "new_confirmed": 50,
+        "new_deceased": 0,
+        "total_confirmed": 3788,
+        "total_deceased": 29
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_AZ",
+        "new_confirmed": 568,
+        "new_deceased": 34,
+        "new_recovered": 166,
+        "new_tested": 10551,
+        "total_confirmed": 215852,
+        "total_deceased": 5560,
+        "total_recovered": 34393,
+        "total_tested": 1420417
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_AZ_04013",
+        "new_confirmed": 175,
+        "new_deceased": 25,
+        "total_confirmed": 140584,
+        "total_deceased": 3329
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "US_CA_06037",
+        "new_confirmed": 1081,
+        "new_deceased": 32,
+        "total_confirmed": 264414,
+        "total_deceased": 6455
+    },
+    {
+        "date": 44000.22928240741,
+        "key": "MY_02",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 96,
+        "total_deceased": 1
+    },
+    {
+        "date": 43885.22928240741,
+        "key": "CN_XZ",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 0,
+        "total_confirmed": 1,
+        "total_deceased": 0,
+        "total_recovered": 1
+    },
+    {
+        "date": 44097.22928240741,
+        "key": "MX_SIN",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 18197,
+        "total_deceased": 3107
+    },
+    {
+        "date": 44097.22928240741,
+        "key": "MX_SIN_25006",
+        "new_confirmed": 7,
+        "new_deceased": 0,
+        "total_confirmed": 6895,
+        "total_deceased": 1032
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "GB_ENG",
+        "new_confirmed": 65,
+        "new_deceased": 7,
+        "new_tested": 216636,
+        "total_confirmed": 364280,
+        "total_deceased": 37240,
+        "total_tested": 216636
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GB_ENG_E06000014",
+        "new_confirmed": 0,
+        "total_confirmed": 1209
+    },
+    {
+        "date": 44098.22928240741,
+        "key": "GB_UKE",
+        "new_confirmed": 21,
+        "new_deceased": 0,
+        "total_confirmed": 46400,
+        "total_deceased": 3660
+    },
+    {
+        "date": 44088.22928240741,
+        "key": "HK",
+        "total_tested": 1029305
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "IN_KL",
+        "new_confirmed": 6477,
+        "new_deceased": 10,
+        "new_recovered": 3481,
+        "total_confirmed": 160934,
+        "total_deceased": 624,
+        "total_recovered": 111326
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_AN",
+        "new_confirmed": 0,
+        "new_deceased": 3,
+        "total_confirmed": 53692,
+        "total_deceased": 1706
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_AR",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 22558,
+        "total_deceased": 1345
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_AS",
+        "new_confirmed": 0,
+        "new_deceased": 1,
+        "total_confirmed": 4876,
+        "total_deceased": 343
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_CB",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 6484,
+        "total_deceased": 224
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_CE",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "total_confirmed": 415,
+        "total_deceased": 10
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_CL",
+        "new_confirmed": 0,
+        "new_deceased": 1,
+        "total_confirmed": 43644,
+        "total_deceased": 2994
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_CM",
+        "new_confirmed": 0,
+        "new_deceased": 2,
+        "total_confirmed": 28760,
+        "total_deceased": 2987
+    },
+    {
+        "date": 44099.22928240741,
+        "key": "ES_CN",
+        "new_confirmed": 0,
+        "new_deceased": 0,
+        "new_recovered": 7,
+        "total_confirmed": 12361,
+        "total_deceased": 221,
+        "total_recovered": 5794
+    }
+]
